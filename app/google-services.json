@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31475096763",
+    "project_id": "fir-remoteconfig-6e32a",
+    "storage_bucket": "fir-remoteconfig-6e32a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31475096763:android:3403b652e6009f19819d9e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31475096763-cb8s7i5ntbp6vt04r1mco4ffl157v59j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsKvn2VAHnJMTDnbj30KIoNrQz5ARBKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31475096763-cb8s7i5ntbp6vt04r1mco4ffl157v59j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
